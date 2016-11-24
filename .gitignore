@@ -1,0 +1,4 @@
+*.swp
+.DS_Store
+error_log
+local/storage/ 
