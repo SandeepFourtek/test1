@@ -1,4 +1,4 @@
 *.swp
 .DS_Store
 error_log
-Newfolder/1/2
+*Newfolder/1/2
